@@ -1,0 +1,54 @@
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+G:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+E:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+F:\Grade 10 Computer Science\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+G:\Grade 10 Computer Science\Assignment3Zelda - Copy (5)\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
+E:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+E:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+E:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+E:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
+F:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe.config
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.exe
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.pdb
+F:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.exe
+F:\Assignment3Zelda\Assignment3Zelda\bin\Debug\Assignment3Zelda.pdb
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csprojResolveAssemblyReference.cache
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Form1.resources
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.Properties.Resources.resources
+F:\Assignment3Zelda\Assignment3Zelda\obj\Debug\Assignment3Zelda.csproj.GenerateResource.Cache
